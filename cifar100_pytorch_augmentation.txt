@@ -1,0 +1,102 @@
+(gpu_training) C:\Users\david\code\reu_2025\intro>python main.py
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 1: Train Acc = 0.1134, Test Acc = 0.1940
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 2: Train Acc = 0.2124, Test Acc = 0.2758
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 3: Train Acc = 0.2688, Test Acc = 0.3610
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 4: Train Acc = 0.3175, Test Acc = 0.3925
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 5: Train Acc = 0.3446, Test Acc = 0.3792
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 6: Train Acc = 0.3720, Test Acc = 0.4218
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 7: Train Acc = 0.3986, Test Acc = 0.4885
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 8: Train Acc = 0.4154, Test Acc = 0.4790
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 9: Train Acc = 0.4329, Test Acc = 0.5066
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 10: Train Acc = 0.4490, Test Acc = 0.5331
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 11: Train Acc = 0.4634, Test Acc = 0.5210
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 12: Train Acc = 0.4757, Test Acc = 0.5576
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 13: Train Acc = 0.4906, Test Acc = 0.5672
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 14: Train Acc = 0.5009, Test Acc = 0.5783
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 15: Train Acc = 0.5091, Test Acc = 0.5427
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 16: Train Acc = 0.5196, Test Acc = 0.5395
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 17: Train Acc = 0.5283, Test Acc = 0.5815
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 18: Train Acc = 0.5332, Test Acc = 0.5984
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 19: Train Acc = 0.5406, Test Acc = 0.5793
+Using: cuda
+Using: cuda
+Using: cuda
+Using: cuda
+Epoch 20: Train Acc = 0.5466, Test Acc = 0.6072

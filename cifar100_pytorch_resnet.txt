@@ -1,0 +1,21 @@
+(gpu_training) C:\Users\david\code\reu_2025\intro>python main.py
+Epoch 1: Train Acc = 0.0699, Test Acc = 0.1014
+Epoch 2: Train Acc = 0.1361, Test Acc = 0.2035
+Epoch 3: Train Acc = 0.2069, Test Acc = 0.2579
+Epoch 4: Train Acc = 0.2614, Test Acc = 0.3017
+Epoch 5: Train Acc = 0.3143, Test Acc = 0.3687
+Epoch 6: Train Acc = 0.3557, Test Acc = 0.3967
+Epoch 7: Train Acc = 0.3916, Test Acc = 0.4256
+Epoch 8: Train Acc = 0.4253, Test Acc = 0.4475
+Epoch 9: Train Acc = 0.4463, Test Acc = 0.4661
+Epoch 10: Train Acc = 0.4703, Test Acc = 0.4991
+Epoch 11: Train Acc = 0.4919, Test Acc = 0.5322
+Epoch 12: Train Acc = 0.5104, Test Acc = 0.5249
+Epoch 13: Train Acc = 0.5288, Test Acc = 0.5565
+Epoch 14: Train Acc = 0.5414, Test Acc = 0.5710
+Epoch 15: Train Acc = 0.5573, Test Acc = 0.5695
+Epoch 16: Train Acc = 0.5992, Test Acc = 0.6152
+Epoch 17: Train Acc = 0.6146, Test Acc = 0.6153
+Epoch 18: Train Acc = 0.6250, Test Acc = 0.6266
+Epoch 19: Train Acc = 0.6323, Test Acc = 0.6267
+Epoch 20: Train Acc = 0.6392, Test Acc = 0.6304
