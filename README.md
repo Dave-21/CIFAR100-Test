@@ -32,7 +32,9 @@ Future versions could include:
 
 ## References
 [PyTorch Classification Tutorial](https://docs.pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
+
 [For ResNets](https://www.digitalocean.com/community/tutorials/writing-resnet-from-scratch-in-pytorch).
+
 [For Data Augmentation](https://docs.pytorch.org/vision/stable/transforms.html).
 
 
