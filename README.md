@@ -6,8 +6,6 @@ The CIFAR-100 dataset has 100 classes each containing 600 sample images, making 
 ## Dataset
 The CIFAR-100 dataset is used which consists of 60,000 sample images. Data augmentation techniques like random cropping, horizontal flipping, color jitter, random erasing, and random rotation were applied to improve generalization.
 
-![Augmented Samples](results/data_augmentation_result.png)
-
 ## Methods
 A ResNet-based architecture was implemented in PyTorch, using residual blocks and batch normalization. The experiment used 20 combinations of these hyperparameters:
 * Loss functions: **CrossEntropy**, **LabelSmoothing**
