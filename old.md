@@ -26,13 +26,20 @@ Many model architectures were used, but each config used the same preprocessing 
 * The best accuracy observed: **~67.898%**
 
 **Best Accuracy Run**
+
 ![Best Accuracy](1st_run_config_30.png)
 
+###### Same Config
+**2nd Best Accuracy**
+
+![Val Accuracy](2nd_run_config_30_plot.png)
+
 **Loss Plot**
+
 ![Loss Plot](loss.png)
 
-**Validation Accuracy + Confusion Matrix**
-![Val Accuracy](2nd_run_config_30_plot.png)
+**Confusion Matrix**
+
 ![Confusion Matrix](2nd_run_config_30_confusion.png)
 
 **Correct Classifications**
