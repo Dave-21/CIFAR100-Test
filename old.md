@@ -25,25 +25,23 @@ Many model architectures were used, but each config used the same preprocessing 
 * A JSON file captured max test accuracy for each config.
 * The best accuracy observed: **~67.898%**
 
-**Best Accuracy Run**
-
+**Best Accuracy Run**<br>
 ![Best Accuracy](1st_run_config_30.png)
 
-##### Same Config
+##### &nbsp;&nbsp;&nbsp;&nbsp;Same Config
 **2nd Best Accuracy**<br>
 ![Val Accuracy](2nd_run_config_30_plot.png)
 
-**Loss Plot**
+**Loss Plot**<br>
 ![Loss Plot](loss.png)
 
-**Confusion Matrix**
-
+**Confusion Matrix**<br>
 ![Confusion Matrix](2nd_run_config_30_confusion.png)
 
-**Correct Classifications**
+**Correct Classifications**<br>
 ![Correct Samples](correct.png)
 
-**Incorrect Classifications**
+**Incorrect Classifications**<br>
 ![Incorrect Samples](incorrect.png)
 
 ## Future Work
