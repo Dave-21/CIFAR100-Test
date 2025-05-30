@@ -106,10 +106,10 @@ class ResNetModel(nn.Module):
         x = self.classifier(x)
         return x
 
-# Instantiate ResNet model
+# Instantiate ResNet model and use GPU
 model = ResNetModel().to(device)
 
-# Using Adam optimizer with lable smoothing loss performed best
+# Using Adam optimizer with label smoothing loss performed best
 optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 loss_function = nn.CrossEntropyLoss(label_smoothing=0.1)
 lr_scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=15, gamma=0.5)
