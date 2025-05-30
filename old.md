@@ -6,7 +6,7 @@ The CIFAR-100 dataset has 100 classes each containing 600 sample images, making 
 ## Dataset
 The CIFAR-100 dataset is used which consists of 60,000 sample images. Data augmentation techniques like random cropping, horizontal flipping, color jitter, random erasing, and random rotation were applied to improve generalization.
 
-![Augmented Samples](data_augmentation_result.png)
+![Augmented Samples](results/data_augmentation_result.png)
 
 ## Methods
 A ResNet-based architecture was implemented in PyTorch, using residual blocks and batch normalization. The experiment used 20 combinations of these hyperparameters:
@@ -26,23 +26,23 @@ Many model architectures were used, but each config used the same preprocessing 
 * The best accuracy observed: **~67.898%**
 
 **Best Accuracy Run**<br>
-![Best Accuracy](1st_run_config_30.png)
+![Best Accuracy](results/1st_run_config_30.png)
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;Same Config
 **2nd Best Accuracy**<br>
-![Val Accuracy](2nd_run_config_30_plot.png)
+![Val Accuracy](results/2nd_run_config_30_plot.png)
 
 **Loss Plot**<br>
-![Loss Plot](loss.png)
+![Loss Plot](results/loss.png)
 
 **Confusion Matrix**<br>
-![Confusion Matrix](2nd_run_config_30_confusion.png)
+![Confusion Matrix](results/2nd_run_config_30_confusion.png)
 
 **Correct Classifications**<br>
-![Correct Samples](correct.png)
+![Correct Samples](results/correct.png)
 
 **Incorrect Classifications**<br>
-![Incorrect Samples](incorrect.png)
+![Incorrect Samples](results/incorrect.png)
 
 ## Future Work
 Label smoothing consistently improved the generalization and performed even better with the Adam optimizer. Higher Learning rates usually underperformed in early epochs.
