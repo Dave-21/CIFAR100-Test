@@ -26,10 +26,11 @@ Many model architectures were used, but each config used the same preprocessing 
 * The best accuracy observed: **~67.898%**
 
 **Best Accuracy Run**
+
 ![Best Accuracy](1st_run_config_30.png)
 
 ##### Same Config
-**2nd Best Accuracy**
+**2nd Best Accuracy**<br>
 ![Val Accuracy](2nd_run_config_30_plot.png)
 
 **Loss Plot**
